@@ -11,6 +11,9 @@ npm install express socket.io --save
 npm init -y  
 node server.js
 
+#local join:  
+localhost:5000  
+
 # updates:
 changes:
 colors / font styles
